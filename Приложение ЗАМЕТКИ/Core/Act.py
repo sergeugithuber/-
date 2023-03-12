@@ -3,8 +3,8 @@ from time import ctime
 import datetime
 
 array_id = []
-file = "note.txt"
-fileForRemove = "data.txt"
+file = "note.csv"
+fileForRemove = "data.csv"
 cod = "utf-8"
 
 def add ():
