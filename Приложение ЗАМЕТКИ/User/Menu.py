@@ -33,6 +33,6 @@ def start():
             help_a()
 
         else:
-            print(f'" {command} " такой команды нет. help - список команд')
+            print(f'" {command} "такой команды нет. help - список команд')
         
         
